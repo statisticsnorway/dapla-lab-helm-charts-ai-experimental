@@ -1,4 +1,4 @@
-# dapla-lab-helm-charts-experimental
+# dapla-lab-helm-charts-ai-experimental
 
 This repository is meant for experimental services and services under development.
 
