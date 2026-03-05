@@ -28,9 +28,9 @@
           "title": "Versjon",
           "description": "Versjon av Python og R i tjenesten",
           "type": "string",
-          "default": "r4.4.0-py313-2026.03.04T13_10Z",
+          "default": "r4.4.0-py313-2026.03.05T09_54Z",
           "listEnum": [
-            "r4.4.0-py313-2026.03.04T13_10Z"
+            "r4.4.0-py313-2026.03.05T09_54Z"
           ],
           "render": "list",
           "pattern": "^[a-zA-Z0-9-_./]+(:[a-z0-9-_.]+)?$"
