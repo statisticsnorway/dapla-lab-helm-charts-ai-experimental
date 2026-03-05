@@ -2,6 +2,29 @@ apiVersion: v1
 entries:
   vscode-python-copilot:
   - apiVersion: v2
+    created: "2026-03-05T10:12:37.082776265Z"
+    dependencies:
+    - name: library-chart
+      repository: https://statisticsnorway.github.io/dapla-lab-helm-charts-library
+      version: 4.4.9
+    description: VSCode tjeneste med Python. Brukeren kan selv installere pakker etter
+      behov.
+    digest: 42237a72599af0f5a9fe5bb798e0b8938b45ab8e6d913642b642ccdcfff6c5bc
+    home: https://manual.dapla.ssb.no/statistikkere/vscode-python.html
+    icon: https://minio.lab.sspcloud.fr/projet-onyxia/assets/servicesImg/vscode.png
+    keywords:
+    - VSCode
+    - Python
+    - GithubCopilot
+    name: vscode-python-copilot
+    sources:
+    - https://github.com/statisticsnorway/dapla-lab-images
+    - https://github.com/statisticsnorway/dapla-lab-helm-charts-library
+    type: application
+    urls:
+    - https://github.com/statisticsnorway/dapla-lab-helm-charts-ai-experimental/releases/download/vscode-python-copilot-0.0.12/vscode-python-copilot-0.0.12.tgz
+    version: 0.0.12
+  - apiVersion: v2
     created: "2026-03-04T13:26:37.029961895Z"
     dependencies:
     - name: library-chart
@@ -208,4 +231,4 @@ entries:
     urls:
     - https://github.com/statisticsnorway/dapla-lab-helm-charts-ai-experimental/releases/download/vscode-python-copilot-0.0.3/vscode-python-copilot-0.0.3.tgz
     version: 0.0.3
-generated: "2026-03-04T13:26:37.029998702Z"
+generated: "2026-03-05T10:12:37.082823193Z"
